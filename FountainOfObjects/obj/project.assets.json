@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\FountainOfObjects\\FountainOfObjects.csproj",
+      "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\FountainOfObjects\\FountainOfObjects.csproj",
       "projectName": "FountainOfObjects",
-      "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\FountainOfObjects\\FountainOfObjects.csproj",
+      "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\FountainOfObjects\\FountainOfObjects.csproj",
       "packagesPath": "C:\\Users\\zzxcv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\FountainOfObjects\\obj\\",
+      "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\FountainOfObjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

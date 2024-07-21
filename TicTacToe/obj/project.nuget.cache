@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U/uHqb4pEAKyYFQVD/hLiOPImbFSQXI3y7eRxtJHV3K+cUK9amPSXhrrnVoVKYa2chEOeCCOjSLZoA9asZ3ePQ==",
+  "dgSpecHash": "N3HNdOolJ8kzlX9uKYm3bjIoIT2FzuUL7bVN4NW0HilujBJjGwLUI+hfwJuDbYhmBU3uq63bFqemaKXPnv7kKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TicTacToe\\TicTacToe.csproj",
+  "projectFilePath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TicTacToe\\TicTacToe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\PackingInventory\\PackingInventory.csproj",
+      "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\PackingInventory\\PackingInventory.csproj",
       "projectName": "PackingInventory",
-      "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\PackingInventory\\PackingInventory.csproj",
+      "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\PackingInventory\\PackingInventory.csproj",
       "packagesPath": "C:\\Users\\zzxcv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\PackingInventory\\obj\\",
+      "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\PackingInventory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

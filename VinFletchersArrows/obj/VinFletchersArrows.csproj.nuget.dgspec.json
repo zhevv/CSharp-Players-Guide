@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\VinFletchersArrows\\VinFletchersArrows.csproj": {}
+    "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\VinFletchersArrows\\VinFletchersArrows.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\VinFletchersArrows\\VinFletchersArrows.csproj": {
+    "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\VinFletchersArrows\\VinFletchersArrows.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\VinFletchersArrows\\VinFletchersArrows.csproj",
+        "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\VinFletchersArrows\\VinFletchersArrows.csproj",
         "projectName": "VinFletchersArrows",
-        "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\VinFletchersArrows\\VinFletchersArrows.csproj",
+        "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\VinFletchersArrows\\VinFletchersArrows.csproj",
         "packagesPath": "C:\\Users\\zzxcv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\VinFletchersArrows\\obj\\",
+        "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\VinFletchersArrows\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

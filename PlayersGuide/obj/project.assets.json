@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\PlayersGuide\\PlayersGuide.csproj",
+      "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\PlayersGuide\\PlayersGuide.csproj",
       "projectName": "PlayersGuide",
-      "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\PlayersGuide\\PlayersGuide.csproj",
+      "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\PlayersGuide\\PlayersGuide.csproj",
       "packagesPath": "C:\\Users\\zzxcv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\PlayersGuide\\obj\\",
+      "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\PlayersGuide\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

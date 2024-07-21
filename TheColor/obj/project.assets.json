@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheColor\\TheColor.csproj",
+      "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheColor\\TheColor.csproj",
       "projectName": "TheColor",
-      "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheColor\\TheColor.csproj",
+      "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheColor\\TheColor.csproj",
       "packagesPath": "C:\\Users\\zzxcv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheColor\\obj\\",
+      "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheColor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

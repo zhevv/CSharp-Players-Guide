@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheOldRobot\\TheOldRobot.csproj",
+      "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheOldRobot\\TheOldRobot.csproj",
       "projectName": "TheOldRobot",
-      "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheOldRobot\\TheOldRobot.csproj",
+      "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheOldRobot\\TheOldRobot.csproj",
       "packagesPath": "C:\\Users\\zzxcv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheOldRobot\\obj\\",
+      "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheOldRobot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

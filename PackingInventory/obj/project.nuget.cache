@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2oTlKheeZEwskTyhO8TVNHuk4ZbisRCCMoUmUXXt00uNFu/djhSXhfbaYBs3w+bP/agpWyc3bXMueLJCyLPP8g==",
+  "dgSpecHash": "CNAU4oJfIj8qidjbMyX1z/mqT3sIHIg8U67BSoTDjjgBmrgHygSrK8t6rGnVvOi5OPTXqPnh5il88JtWPeuZhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\PackingInventory\\PackingInventory.csproj",
+  "projectFilePath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\PackingInventory\\PackingInventory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sZrLtG5LtkS5L+6J1VSEHXR2CiSom66TTc5Foi1LaZAondypTTY2gbSS483t6x3PxD66ucBRS/hHTbATUKE6qA==",
+  "dgSpecHash": "tzBOUjESpVSp14dONiNVjZoNAq6aNlUhI8Gw6QjVpUieuskl47zbVq9IkVnBmUhOw3AReX/TuUDCpMpTytm7sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\PasswordValidator\\PasswordValidator.csproj",
+  "projectFilePath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\PasswordValidator\\PasswordValidator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

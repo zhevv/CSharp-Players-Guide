@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheLockedDoor\\TheLockedDoor.csproj": {}
+    "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheLockedDoor\\TheLockedDoor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheLockedDoor\\TheLockedDoor.csproj": {
+    "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheLockedDoor\\TheLockedDoor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheLockedDoor\\TheLockedDoor.csproj",
+        "projectUniqueName": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheLockedDoor\\TheLockedDoor.csproj",
         "projectName": "TheLockedDoor",
-        "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheLockedDoor\\TheLockedDoor.csproj",
+        "projectPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheLockedDoor\\TheLockedDoor.csproj",
         "packagesPath": "C:\\Users\\zzxcv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\PlayersGuide\\TheLockedDoor\\obj\\",
+        "outputPath": "C:\\Users\\zzxcv\\Documents\\GitHub\\CSharp-Players-Guide\\TheLockedDoor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
