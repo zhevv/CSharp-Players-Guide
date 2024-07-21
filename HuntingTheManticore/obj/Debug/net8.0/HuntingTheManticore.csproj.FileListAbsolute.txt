@@ -26,3 +26,4 @@ C:\Users\zzxcv\Documents\GitHub\CSharp-Players-Guide\HuntingTheManticore\obj\Deb
 C:\Users\zzxcv\Documents\GitHub\CSharp-Players-Guide\HuntingTheManticore\obj\Debug\net8.0\HuntingTheManticore.pdb
 C:\Users\zzxcv\Documents\GitHub\CSharp-Players-Guide\HuntingTheManticore\obj\Debug\net8.0\HuntingTheManticore.genruntimeconfig.cache
 C:\Users\zzxcv\Documents\GitHub\CSharp-Players-Guide\HuntingTheManticore\obj\Debug\net8.0\ref\HuntingTheManticore.dll
+C:\Users\zzxcv\Documents\GitHub\CSharp-Players-Guide\HuntingTheManticore\obj\Debug\net8.0\HuntingTheManticore.sourcelink.json
