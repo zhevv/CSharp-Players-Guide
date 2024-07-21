@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\bin\Debug\net8.0\PlayersGuide.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\bin\Debug\net8.0\PlayersGuide.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\bin\Debug\net8.0\PlayersGuide.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\bin\Debug\net8.0\PlayersGuide.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\bin\Debug\net8.0\PlayersGuide.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\obj\Debug\net8.0\PlayersGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\obj\Debug\net8.0\PlayersGuide.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\obj\Debug\net8.0\PlayersGuide.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\obj\Debug\net8.0\PlayersGuide.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\obj\Debug\net8.0\PlayersGuide.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\obj\Debug\net8.0\refint\PlayersGuide.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\obj\Debug\net8.0\PlayersGuide.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\obj\Debug\net8.0\PlayersGuide.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PlayersGuide\obj\Debug\net8.0\ref\PlayersGuide.dll

@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\obj\Debug\net8.0\refint\VinFletchersArrows.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\VinFletchersArrows\obj\Debug\net8.0\ref\VinFletchersArrows.dll

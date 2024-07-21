@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\bin\Debug\net8.0\PackingInventory.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\bin\Debug\net8.0\PackingInventory.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\bin\Debug\net8.0\PackingInventory.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\bin\Debug\net8.0\PackingInventory.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\bin\Debug\net8.0\PackingInventory.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\obj\Debug\net8.0\PackingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\obj\Debug\net8.0\PackingInventory.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\obj\Debug\net8.0\PackingInventory.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\obj\Debug\net8.0\PackingInventory.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\obj\Debug\net8.0\PackingInventory.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\obj\Debug\net8.0\refint\PackingInventory.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\obj\Debug\net8.0\PackingInventory.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\obj\Debug\net8.0\PackingInventory.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\PackingInventory\obj\Debug\net8.0\ref\PackingInventory.dll

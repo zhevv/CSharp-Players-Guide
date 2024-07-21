@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\obj\Debug\net8.0\TheOldRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\obj\Debug\net8.0\TheOldRobot.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\obj\Debug\net8.0\TheOldRobot.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\obj\Debug\net8.0\TheOldRobot.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\bin\Debug\net8.0\TheOldRobot.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\bin\Debug\net8.0\TheOldRobot.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\bin\Debug\net8.0\TheOldRobot.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\bin\Debug\net8.0\TheOldRobot.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\bin\Debug\net8.0\TheOldRobot.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\obj\Debug\net8.0\TheOldRobot.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\obj\Debug\net8.0\refint\TheOldRobot.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\obj\Debug\net8.0\TheOldRobot.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\obj\Debug\net8.0\TheOldRobot.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheOldRobot\obj\Debug\net8.0\ref\TheOldRobot.dll

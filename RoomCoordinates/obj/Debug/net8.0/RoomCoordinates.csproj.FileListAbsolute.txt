@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\obj\Debug\net8.0\refint\RoomCoordinates.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\RoomCoordinates\obj\Debug\net8.0\ref\RoomCoordinates.dll

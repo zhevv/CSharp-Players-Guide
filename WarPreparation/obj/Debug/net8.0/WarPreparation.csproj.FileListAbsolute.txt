@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\bin\Debug\net8.0\WarPreparation.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\bin\Debug\net8.0\WarPreparation.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\bin\Debug\net8.0\WarPreparation.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\bin\Debug\net8.0\WarPreparation.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\bin\Debug\net8.0\WarPreparation.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\obj\Debug\net8.0\WarPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\obj\Debug\net8.0\WarPreparation.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\obj\Debug\net8.0\WarPreparation.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\obj\Debug\net8.0\WarPreparation.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\obj\Debug\net8.0\WarPreparation.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\obj\Debug\net8.0\refint\WarPreparation.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\obj\Debug\net8.0\WarPreparation.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\obj\Debug\net8.0\WarPreparation.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\WarPreparation\obj\Debug\net8.0\ref\WarPreparation.dll

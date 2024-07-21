@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\bin\Debug\net8.0\TheColor.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\bin\Debug\net8.0\TheColor.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\bin\Debug\net8.0\TheColor.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\bin\Debug\net8.0\TheColor.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\bin\Debug\net8.0\TheColor.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\obj\Debug\net8.0\TheColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\obj\Debug\net8.0\TheColor.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\obj\Debug\net8.0\TheColor.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\obj\Debug\net8.0\TheColor.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\obj\Debug\net8.0\TheColor.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\obj\Debug\net8.0\refint\TheColor.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\obj\Debug\net8.0\TheColor.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\obj\Debug\net8.0\TheColor.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheColor\obj\Debug\net8.0\ref\TheColor.dll

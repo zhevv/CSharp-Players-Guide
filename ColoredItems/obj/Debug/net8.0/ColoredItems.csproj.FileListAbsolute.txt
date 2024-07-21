@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\obj\Debug\net8.0\ColoredItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\obj\Debug\net8.0\ColoredItems.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\obj\Debug\net8.0\ColoredItems.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\obj\Debug\net8.0\ColoredItems.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\bin\Debug\net8.0\ColoredItems.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\bin\Debug\net8.0\ColoredItems.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\bin\Debug\net8.0\ColoredItems.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\bin\Debug\net8.0\ColoredItems.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\bin\Debug\net8.0\ColoredItems.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\obj\Debug\net8.0\ColoredItems.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\obj\Debug\net8.0\refint\ColoredItems.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\obj\Debug\net8.0\ColoredItems.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\obj\Debug\net8.0\ColoredItems.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ColoredItems\obj\Debug\net8.0\ref\ColoredItems.dll

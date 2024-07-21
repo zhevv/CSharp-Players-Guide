@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll

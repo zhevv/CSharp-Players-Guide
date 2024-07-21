@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\obj\Debug\net8.0\refint\ThePoint.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\ThePoint\obj\Debug\net8.0\ref\ThePoint.dll

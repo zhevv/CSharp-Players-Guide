@@ -1,0 +1,14 @@
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.exe
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.deps.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.runtimeconfig.json
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.AssemblyInfoInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.AssemblyInfo.cs
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.csproj.CoreCompileInputs.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\obj\Debug\net8.0\refint\TheLockedDoor.dll
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.pdb
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.genruntimeconfig.cache
+C:\Users\zzxcv\Documents\GitHub\PlayersGuide\TheLockedDoor\obj\Debug\net8.0\ref\TheLockedDoor.dll
