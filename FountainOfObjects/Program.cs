@@ -28,6 +28,8 @@ public class Game
     FountainOfObjects fountainOfObjects;
     Amarok amarok;
     Player player;
+    DateTime startTime;
+
 
     enum GameState
     {
@@ -55,6 +57,7 @@ public class Game
 
     void Play()
     {
+        startTime = DateTime.Now;
         Intro();
         while (state == GameState.Ongoing)
         {
@@ -81,6 +84,8 @@ public class Game
                 continue;
             }   
         }
+        TimeSpan gameDuration = DateTime.Now - startTime;
+        Console.WriteLine($"You explored for {gameDuration}");
     }
 
     void Intro()
